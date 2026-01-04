@@ -166,4 +166,4 @@ Este projeto está licenciado sob os termos definidos no arquivo [LICENSE](LICEN
 
 ## Autor
 
-CHSBdsada
+Carlos Henrique
